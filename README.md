@@ -1,4 +1,3 @@
-#TASK -1
- CREATE A SALES DASHBOARD
-# amazon-sales-dashboard
+
+# sales-dashboard
 creating a dashboard showing sales trends in Amazon
